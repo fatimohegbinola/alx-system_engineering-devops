@@ -1,1 +1,1 @@
-whatsnext
+#!/bin/bash
