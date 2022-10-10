@@ -1,1 +1,1 @@
-#!/bin/bash
+letteronly
