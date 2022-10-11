@@ -1,1 +1,1 @@
-true knowledge
+divid3 and rule
