@@ -1,1 +1,1 @@
-love eb
+binary to decimal
